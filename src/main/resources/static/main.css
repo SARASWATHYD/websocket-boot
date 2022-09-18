@@ -1,0 +1,15 @@
+body {
+
+background-color :#f5f5
+}
+
+#main-content{
+    max-width:940px;
+    padding: 2em 3em;
+    margin: 0 auto 20px;
+    background-color :#e5e5e5;
+    border: 1 px solid #e5e5e5;
+    -webkit-border-radius : 5 px;
+    -moz-border-radius : 5 px;
+    -border-radius : 5 px;
+}
